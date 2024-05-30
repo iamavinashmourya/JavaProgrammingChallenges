@@ -33,9 +33,10 @@ Ensure you have JDK installed on your machine. You can download it from [here](h
 
 ## Challenges
 
-### Questions
+### Questions & Solutions
 
-
+   - **Question:** Create a program that determines if a number is postive, negative or zero
+   - **Solution:** [PostiveNegative.java](src/PostiveNegative.java)
 
 ## How to Use
 
