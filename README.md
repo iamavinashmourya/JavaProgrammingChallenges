@@ -35,8 +35,77 @@ Ensure you have JDK installed on your machine. You can download it from [here](h
 
 ### Questions & Solutions
 
-   - **Question:** Create a program that determines if a number is postive, negative or zero
+   - **Question:** Create a program that determines if a number is positive, negative, or zero.
    - **Solution:** [PostiveNegative.java](src/PostiveNegative.java)
+
+   - **Question:** Create a program that determines if a number is odd or even.
+   - **Solution:** [OddEven.java](src/OddEven.java)
+
+   - **Question:** Create a program that determines if a given year is a leap year.
+   - **Solution:** [LeapYear.java](src/LeapYear.java)
+
+   - **Question:** Create a program that determines the greatest of the three numbers.
+   - **Solution:** [GreatestofThree.java](src/GreatestofThree.java)
+
+   - **Question:** Create a program that calculates grades based on marks.
+   - **Solution:** [Grading.java](src/Grading.java)
+
+   - **Question:** Create a program that categorizes a person into different age groups.
+   - **Solution:** [AgeCalculator.java](src/AgeCalculator.java)
+
+   - **Question:** Create a program that shows bitwise AND of two numbers.
+   - **Solution:** [BitwiseAND.java](src/BitwiseAND.java)
+
+   - **Question:** Create a program that shows bitwise OR of two numbers.
+   - **Solution:** [BitwiseOR.java](src/BitwiseOR.java)
+
+   - **Question:** Create a program that shows bitwise XOR of two numbers.
+   - **Solution:** [BitwiseXOR.java](src/BitwiseXOR.java)
+
+   - **Question:** Create a program that shows bitwise complement of a number.
+   - **Solution:** [BitwiseCompliment.java](src/BitwiseCompliment.java)
+
+   - **Question:** Create a program that shows use of Left Shift operator.
+   - **Solution:** [LeftShift.java](src/LeftShift.java)
+
+   - **Question:** Create a program that shows use of Right Shift operator.
+   - **Solution:** [RightShift.java](src/RightShift.java)
+
+   - **Question:** Write a program to check if a given number is even or odd using bitwise operators.
+   - **Solution:** [OddEvenBitwise.java](src/OddEvenBitwise.java)
+
+   - **Question:** Develop a program that prints the multiplication table for a given number.
+   - **Solution:** [MultiplicationTable.java](src/MultiplicationTable.java)
+
+   - **Question:** Create a program to sum all odd numbers from 1 to a specified number N.
+   - **Solution:** [OddNumberSum.java](src/OddNumberSum.java)
+
+   - **Question:** Write a function that calculates the factorial of a given number.
+   - **Solution:** [Factorial.java](src/Factorial.java)
+
+   - **Question:** Create a program that computes the sum of the digits of an integer.
+   - **Solution:** [SumOfDigits.java](src/SumOfDigits.java)
+
+   - **Question:** Create a program to find the Least Common Multiple (LCM) of two numbers.
+   - **Solution:** [LCM.java](src/LCM.java)
+
+   - **Question:** Create a program to find the Greatest Common Divisor (GCD) of two integers.
+   - **Solution:** [GCD.java](src/GCD.java)
+
+   - **Question:** Create a program to check whether a given number is prime.
+   - **Solution:** [Prime.java](src/Prime.java)
+
+   - **Question:** Create a program to reverse the digits of a number.
+   - **Solution:** [ReverseDigits.java](src/ReverseDigits.java)
+
+   - **Question:** Create a program to print the Fibonacci series up to a certain number.
+   - **Solution:** [Fibonacci.java](src/Fibonacci.java)
+
+   - **Question:** Create a program to check if a number is an Armstrong number.
+   - **Solution:** [ArmstrongNumber.java](src/ArmstrongNumber.java)
+
+   - **Question:** Create a program to search for an element in an array.
+   - **Solution:** [ArraySearching.java](src/ArraySearching.java)
 
 ## How to Use
 
