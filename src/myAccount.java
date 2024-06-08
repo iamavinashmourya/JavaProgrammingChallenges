@@ -4,7 +4,7 @@ abstract class with methods like deposit, withdraw, and getBalance. The SavingsA
 and CurrentAccount classes should inherit from the Account class and override
 necessary methods.*/
 
-public abstract class Account {
+abstract class Account {
     private double balance;
 
     public Account(double balance) {
@@ -28,24 +28,24 @@ public abstract class Account {
     }
 }
 
-public class SavingsAccount extends Account {
+class SavingsAccount extends Account {
     public SavingsAccount(double balance) {
         super(balance);
     }
 
-    // Additional methods specific to SavingsAccount
+
 }
 
-public class CurrentAccount extends Account {
+class CurrentAccount extends Account {
     public CurrentAccount(double balance) {
         super(balance);
     }
 
-    // Additional methods specific to CurrentAccount
+
 }
 
-// Usage example:
-public class Main {
+
+public class myAccount {
     public static void main(String[] args) {
         SavingsAccount savingsAccount = new SavingsAccount(1000);
         savingsAccount.deposit(500);
