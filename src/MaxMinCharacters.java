@@ -14,14 +14,14 @@ public class MaxMinCharacters {
         System.out.println("Enter a string:");
         String input = scanner.nextLine();
 
-        int[] frequency = new int[256]; // Assuming ASCII characters
+        int[] frequency = new int[256];
 
         // Count frequency of each character
         for (char c : input.toCharArray()) {
             frequency[c]++;
         }
 
-        char maxChar = '\0', minChar = '\uffff'; // Initialize maxChar and minChar
+        char maxChar = '\0', minChar = '\uffff';
         for (int i = 0; i < frequency.length; i++) {
             if (frequency[i] != 0) {
                 char currentChar = (char) i;
