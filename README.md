@@ -1,3 +1,4 @@
+
 # Java Programming Challenges
 
 Welcome to the Java Programming Challenges repository! This repository contains a comprehensive set of Java programming challenges designed to help you learn and master various topics in Java. Each challenge comes with a detailed solution to aid your understanding.
@@ -107,6 +108,107 @@ Ensure you have JDK installed on your machine. You can download it from [here](h
    - **Question:** Create a program to search for an element in an array.
    - **Solution:** [ArraySearching.java](src/ArraySearching.java)
 
+   - **Question:** Create a program to check if an array is a palindrome.
+   - **Solution:** [PalindromeArray.java](src/PalindromeArray.java)
+
+   - **Question:** Create a program to merge two sorted arrays.
+   - **Solution:** [mergeTwoSortedArray.java](src/mergeTwoSortedArray.java)
+
+   - **Question:** Create a program to search an element in a 2-D array.
+   - **Solution:** [Search2DArray.java](src/Search2DArray.java)
+
+   - **Question:** Create a program to calculate the sum and average of all elements in a 2-D array.
+   - **Solution:** [SumAverage2DArray.java](src/SumAverage2DArray.java)
+
+   - **Question:** Create a program to find the sum of the diagonal elements of a 2-D array.
+   - **Solution:** [DiagonalSum2DArray.java](src/DiagonalSum2DArray.java)
+
+   - **Question:** Create a Book class for a library system.
+   - **Solution:** [Book.java](src/Book.java)
+
+   - **Question:** Design a Course class.
+   - **Solution:** [Course.java](src/Course.java)
+
+   - **Question:** Write a program that prints the numbers from 1 to 100 with "Fizz" for multiples of three, "Buzz" for multiples of five, and "FizzBuzz" for multiples of both three and five.
+   - **Solution:** [FizzBuzz.java](src/FizzBuzz.java)
+
+   - **Question:** Write a function that takes an array of integers and returns the largest element.
+   - **Solution:** [LargestElement.java](src/LargestElement.java)
+
+   - **Question:** Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
+   - **Solution:** [MissingNumber.java](src/MissingNumber.java)
+
+   - **Question:** Create a class Person with attributes for name and age.
+   - **Solution:** [Person.java](src/Person.java)
+
+   - **Question:** Write a Java method to determine if two given strings are anagrams.
+   - **Solution:** [AnagramChecker.java](src/AnagramChecker.java)
+
+   - **Question:** Write a Java method to find the longest common substring between two given strings.
+   - **Solution:** [LongestCommonSubstring.java](src/LongestCommonSubstring.java)
+
+   - **Question:** Write a Java program to check if a given string of parentheses is balanced.
+   - **Solution:** [BalancedParentheses.java](src/BalancedParentheses.java)
+
+   - **Question:** Write a Java program to transpose a given matrix.
+   - **Solution:** [MatrixTranspose.java](src/MatrixTranspose.java)
+
+   - **Question:** Write a Java program to sort an array of strings by their lengths.
+   - **Solution:** [SortByLength.java](src/SortByLength.java)
+
+   - **Question:** Write a Java program to convert a given decimal number to binary.
+   - **Solution:** [DecimalToBinary.java](src/DecimalToBinary.java)
+
+   - **Question:** Write a Java program to find the intersection of two arrays.
+   - **Solution:** [ArrayIntersection.java](src/ArrayIntersection.java)
+
+   - **Question:** Implement a Java program for a simple bank account management system.
+   - **Solution:** [BankAccountSystem.java](src/BankAccountSystem.java)
+
+   - **Question:** Create a Java program for an employee payroll system.
+   - **Solution:** [PayrollEmpSystem.java](src/PayrollEmpSystem.java)
+
+   - **Question:** Write a program that reads a sentence from the user and counts the number of words in the sentence.
+   - **Solution:** [WordCount.java](src/WordCount.java)
+
+   - **Question:** Write a program that reads a string from the user and finds the maximum and minimum characters in it.
+   - **Solution:** [MaxMinCharacters.java](src/MaxMinCharacters.java)
+
+   - **Question:** Write a program that reads a sentence from the user and reverses the order of the words in the sentence.
+   - **Solution:** [ReverseWords.java](src/ReverseWords.java)
+
+   - **Question:** Write a program that reads a string from the user and finds the length of the longest substring without repeating characters.
+   - **Solution:** [LongestUniqueSubstring.java](src/LongestUnique
+
+Substring.java)
+
+   - **Question:** Write a program that reads a string from the user and checks if it is a palindrome.
+   - **Solution:** [PalindromeChecker.java](src/PalindromeChecker.java)
+
+   - **Question:** Write a program that reads a string from the user and counts the number of vowels and consonants in it.
+   - **Solution:** [VowelsAndConsonantsCounter.java](src/VowelsAndConsonantsCounter.java)
+
+   - **Question:** Write a program that reads an email address from the user and validates it using a regular expression.
+   - **Solution:** [EmailValidator.java](src/EmailValidator.java)
+
+   - **Question:** Write a program that reads an integer from the user and repeatedly calculates the sum of its digits until a single digit is obtained.
+   - **Solution:** [DigitalRoot.java](src/DigitalRoot.java)
+
+   - **Question:** Write a program that reads a string from the user and generates all possible permutations of the string.
+   - **Solution:** [StringPermutations.java](src/StringPermutations.java)
+
+   - **Question:** Write a program that reads a string from the user and calculates the sum of the ASCII values of all the characters in the string.
+   - **Solution:** [SumOfAsciiValues.java](src/SumOfAsciiValues.java)
+
+   - **Question:** Write a program to find the minimum and maximum number using a for loop and input from the user.
+   - **Solution:** [MaxMinUsingLoop.java](src/MaxMinUsingLoop.java)
+
+   - **Question:** Write a program that reads a list of temperatures (in Celsius) for a week (7 days) from the user, calculates the average temperature, and determines the highest and lowest temperatures recorded.
+   - **Solution:** [WeatherAnalysis.java](src/WeatherAnalysis.java)
+
+   - **Question:** Write a program that tracks the completion of a daily habit over a month (30 days). The user will input a series of 30 boolean values (true for habit completed, false for not completed). The program should calculate the longest streak of consecutive days the habit was completed and the total number of days the habit was completed.
+   - **Solution:** [HabitTracker.java](src/HabitTracker.java)
+
 ## How to Use
 
 Each directory contains a set of challenges related to a specific topic in Java. To run the solutions:
@@ -135,3 +237,6 @@ Contributions are welcome! If you have a new challenge or improvement, please fo
 5. Open a pull request
 
 Happy Coding!
+```
+
+This README file now includes a detailed list of all the challenges and their solutions, making it easy for users to find and navigate through the content.
